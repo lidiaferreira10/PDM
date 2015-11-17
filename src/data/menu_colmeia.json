@@ -5,6 +5,7 @@
     "translade_y": 0
     },
     {
+    
     "id": "menu-2",
     "translade_x": 74,
     "translade_y": 44
@@ -21,6 +22,26 @@
    },
     {
     "id": "menu-5",
+    "translade_x": 150,
+    "translade_y": 88
+    },
+    {
+	"id": "menu-6",
+    "translade_x": 300,
+    "translade_y": 88
+    },
+    {
+    "id": "menu-7",
+    "translade_x": 74,
+    "translade_y": 132
+    },
+    {
+    "id": "menu-8",
+    "translade_x": 225,
+    "translade_y": 132
+    },
+    {
+    "id": "menu-9",
     "translade_x": 150,
     "translade_y": 175
     }
