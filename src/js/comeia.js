@@ -53,7 +53,6 @@ var enterElements = svg.selectAll("path")
                 .attr("transform",function(d){return "translate(" + d.translade_x + "," + d.translade_y + ") rotate(30 30 0)";})
   				.attr("stroke","#383838")
       			.attr("fill", "white")
-      			/*.attr("cursor", "pointer")*/
       			.attr("stroke-width", function(d){ 
       				if (d.id == "NUL"){
       					return 0;
